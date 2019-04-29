@@ -4,3 +4,4 @@ The board is not ready for flight!
 
 For more actually information please visit the wiki-page
 
+The board is developed in "Target"
